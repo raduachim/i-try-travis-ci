@@ -8,3 +8,5 @@ install:
   - npm ci
 script:
   - echo "Hello World"
+after_success:
+  - echo "great success"
