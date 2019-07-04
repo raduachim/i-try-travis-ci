@@ -9,4 +9,4 @@ install:
 script:
   - echo "Hello World"
 after_success:
-  - echo "great success"
+  - bash ./comment.sh
