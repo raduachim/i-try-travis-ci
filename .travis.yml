@@ -1,0 +1,10 @@
+language: node_js
+cache:
+  directories:
+    - '~/.npm'
+node_js:
+  - '10'
+install:
+  - npm ci
+script:
+  - echo "Hello World"
