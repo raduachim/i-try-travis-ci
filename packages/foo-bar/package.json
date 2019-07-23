@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "semantic-release": "^15.13.18"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "effd606e9133ba88d2cba6dade62a99168a40be5"
 }
