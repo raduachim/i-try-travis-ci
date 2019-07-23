@@ -8,4 +8,4 @@ install:
   - npm ci
 script:
   - echo "Hello World"
-  - npx lerna exec -- npx semantic-release
+  - npx lerna exec --nobail -- npx semantic-release
