@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/raduachim/i-try-travis-ci/issues"
   },
-  "homepage": "https://github.com/raduachim/i-try-travis-ci#readme"
+  "homepage": "https://github.com/raduachim/i-try-travis-ci#readme",
+  "devDependencies": {
+    "lerna": "^3.16.1"
+  }
 }
